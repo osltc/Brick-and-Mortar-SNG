@@ -1,0 +1,21 @@
+{
+    "name": "osltc/bamgenerator",
+    "description": "PHP Serial Number Generator and management class",
+    "type": "library",
+    "version": "0.0.1-alpha",
+    "homepage": "https://github.com/osltc/Brick-and-Mortar-SNG",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "OSLTC Team",
+            "email": "dev@open.sltc.hk"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "osltc\\bamgenerator\\": "src"
+        }
+    }
+}
