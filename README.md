@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/osltc/Brick-and-Mortar-SNG.svg?branch=0.x)](https://travis-ci.org/osltc/Brick-and-Mortar-SNG)
 [![Latest Stable Version](https://poser.pugx.org/osltc/bamgenerator/v/stable)](https://packagist.org/packages/osltc/bamgenerator)
 [![Latest Unstable Version](https://poser.pugx.org/osltc/bamgenerator/v/unstable)](https://packagist.org/packages/osltc/bamgenerator)
 [![License](https://poser.pugx.org/osltc/bamgenerator/license)](https://packagist.org/packages/osltc/bamgenerator)
